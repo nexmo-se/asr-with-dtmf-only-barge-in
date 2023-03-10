@@ -1,0 +1,23 @@
+{
+  "name": "asr-with-dtmf-only-barge-in",
+  "version": "1.0.0",
+  "description": "## Content to be filled",
+  "main": "voice-api-stt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tony Chan",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.11.3",
+    "body-parser": "^1.20.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-ws": "^5.0.2",
+    "request": "^2.88.2",
+    "stream": "^0.0.2"
+  },
+  "engines": {
+    "node": "16.15"
+  }
+}
